@@ -1,7 +1,6 @@
 # Getting Started with Create React App
 
-https://grocylist.herokuapp.com/
-
+https://grocery-list-teal.vercel.app/
 ## Available Scripts
 
 In the project directory, you can run:
