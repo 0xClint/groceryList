@@ -30,7 +30,7 @@ const ItemList = () => {
             className="w-60 mb-3"
             alt="Empty List"
           />
-          <label className="text-[1.3rem]">Uh Oh! Your list is empty</label>
+          <label className="text-[1.3rem]">Uh Oh! Your list is empty <br/>Please add items</label>
         </div>
       )}
     </div>
